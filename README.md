@@ -8,31 +8,27 @@ I’m learning embedded systems and how to use sensors to control experimental c
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" colspan="2">
       <a href="https://github.com/jw3422951-ops/automatic-cat-feeder"><img src="assets/cat-food-storage.jpg" alt="Cat-food samples in test tubes during hexane extraction" width="190"><br><strong>Cat Food Storage</strong></a>
       <br>24-container study and report
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" colspan="2">
       <a href="https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md"><img src="assets/chemistry-portfolio.jpg" alt="Yellow-green glow in a beaker from the copper-iodide complexes experiment" width="190"><br><strong>Chemistry Portfolio</strong></a>
       <br>49 entries · 10 reports
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" colspan="2">
       <a href="https://github.com/jw3422951-ops/ccny-dna-detectives"><img src="assets/ccny-dna-detectives.jpg" alt="Figure 1 showing tumor incidence by RNAi group and treatment" width="190"><br><strong>CCNY DNA Detectives</strong></a>
       <br>Unpublished team study
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" colspan="3">
       <a href="https://github.com/jw3422951-ops/fermentation-monitoring"><img src="assets/fermentation-monitoring.jpg" alt="Wenhao Jia holding the Third Prize certificate" width="190"><br><strong>Fermentation Monitoring</strong></a>
       <br>Sensor proposal · Third Prize
     </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/jw3422951-ops/credit-can#creditcan"><img src="assets/creditcan.jpg" alt="CreditCAN waste sorter with its transparent enclosure and rotating chute" width="190"><br><strong>CreditCAN</strong></a>
-      <br>Independent Arduino build
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/jw3422951-ops/credit-can#team-mini-project--electronic-game"><img src="assets/electronic-game.jpg" alt="Electronic game prototype with buttons, LEDs, and an LCD" width="190"><br><strong>Electronic Game</strong></a>
-      <br>Team demo and CAD
+    <td align="center" valign="top" colspan="3">
+      <a href="https://github.com/jw3422951-ops/credit-can"><img src="assets/creditcan.jpg" alt="CreditCAN waste sorter with its transparent enclosure and rotating chute" width="190"><br><strong>Cooper Union</strong></a>
+      <br>CreditCAN and class projects
     </td>
   </tr>
 </table>
