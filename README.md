@@ -1,8 +1,8 @@
 # Wenhao Jia
 
-I’m interested in bioengineering and chemical engineering. While building an automatic cat feeder, I wondered how dry cat food changes in storage. That question became an experiment.
+**Bioengineering · Chemical Engineering**
 
-I’m learning embedded systems and how to use sensors to control experimental conditions and collect more reliable data.
+While building an automatic cat feeder, I wondered what happened to the food while it sat in the container. I designed a storage experiment to compare plastic and foil containers at four silica gel amounts, then wrote up the methods and results. [Read my cat food storage report (PDF)](https://github.com/jw3422951-ops/automatic-cat-feeder/blob/main/reports/cat-food-storage-experiment.pdf)
 
 ## Project gallery
 
@@ -37,10 +37,12 @@ I’m learning embedded systems and how to use sensors to control experimental c
 
 | Project | My contribution | Explore |
 | --- | --- | --- |
-| **Automatic Cat Feeder** | I built a physical prototype, simulated the mechanism in CAD, and investigated how container type and silica gel affected dry cat food during storage. | [Prototype, animations, and report](https://github.com/jw3422951-ops/automatic-cat-feeder) |
-| **Chemistry Portfolio** | I research the underlying chemistry, plan experiments, and document the results with photographs and reports. | [Chemistry overview](https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md) |
-| **CCNY DNA Detectives** | In a team study on Domeless RNA interference and methoprene in fruit flies, I prepared Figure 1 and contributed to the report and presentation. | [Unpublished team report and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
-| **Cooper Union Summer Projects** | I helped develop the CreditCAN team model, which earned an Honor Award, then independently built a working Arduino Mega 2560 waste sorter based on the concept. | [Two years of design and fabrication](https://github.com/jw3422951-ops/credit-can) |
-| **Low-Cost Fermentation Monitoring** | I proposed using affordable sensors and Monod kinetics to study batch fermentation in schools. The presentation earned Third Prize at the 2026 Youth AI Leadership Speech Challenge. | [Proposal and award](https://github.com/jw3422951-ops/fermentation-monitoring) |
+| **Cat Food Storage and Automatic Feeder** | I ran the 24-container storage study, built the feeder prototype, and simulated its motor and gear motion in CAD. | [Study results and prototype](https://github.com/jw3422951-ops/automatic-cat-feeder) |
+| **Chemistry Portfolio** | I plan and carry out my own chemistry experiments and document what I observe in reports, photos, and videos. | [Chemistry overview](https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md) |
+| **CCNY DNA Detectives** | I prepared Figure 1 and contributed to the paper and presentation on Domeless RNA interference in fruit flies. | [Unpublished team paper and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
+| **Fermentation Monitoring** | I developed a proposal for school labs to use low-cost sensors and Monod kinetics to study batch yeast fermentation. | [Proposal and Third Prize](https://github.com/jw3422951-ops/fermentation-monitoring) |
+| **Cooper Union Summer Projects** | I modeled the CreditCAN team concept in Onshape, then independently built an Arduino Mega 2560 sorter based on it. The team concept earned an Honor Award. | [Two years of design and fabrication](https://github.com/jw3422951-ops/credit-can) |
 
-[Arduino classroom exercises](https://github.com/jw3422951-ops/credit-can#arduino-exercises)
+## What I’m working toward
+
+I’m learning embedded systems and sensors to control experimental variables and collect more reliable measurements. For my next yeast fermentation study, I want to see whether different conditions produce distinct patterns in the sensor readings over time. [Planned fermentation research](https://github.com/jw3422951-ops/fermentation-monitoring#future-research)
