@@ -20,10 +20,10 @@ I’m learning embedded systems. My next step is to learn how to use sensors to 
 
 ## Featured experiment
 
-### Copper Sulfate Recrystallization and Crystal Growth
+### [Luminescent Copper-Iodide Complexes](https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/45-luminescent-copper-iodide-complexes/assets)
 
-I started with recrystallization and then tried to grow larger crystals. The photograph shows the result after 28 days of growth.
-
-<a href="https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/11-copper-sulfate-crystal-growth"><img src="https://raw.githubusercontent.com/jw3422951-ops/chemistry-portfolio/main/11-copper-sulfate-crystal-growth/assets/day-28-crystals.jpg" alt="Blue crystals photographed after 28 days of cultivation" width="280"></a>
-
-[View the experiment and process photographs](https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/11-copper-sulfate-crystal-growth)
+<p align="center">
+  <a href="https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/45-luminescent-copper-iodide-complexes/assets"><img src="https://raw.githubusercontent.com/jw3422951-ops/chemistry-portfolio/main/45-luminescent-copper-iodide-complexes/assets/photo-02.jpg" alt="Yellow-green glow in a beaker from the copper-iodide complexes experiment" width="260"></a>
+  <br>
+  <em>Experiment 45 from my independent chemistry portfolio</em>
+</p>
