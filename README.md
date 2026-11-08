@@ -6,7 +6,7 @@ I’m interested in biochemistry and how it can help explain things we tend to o
 
 ## Currently learning
 
-I’m learning Arduino and embedded systems through small sketches that explore joystick input, LEDs, and an LCD.
+I’m learning embedded systems. My next step is to learn how to use sensors to monitor experimental conditions, control variables more precisely, and collect more reliable data in my biochemistry experiments.
 
 ## Selected projects
 
