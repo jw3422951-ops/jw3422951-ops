@@ -15,6 +15,7 @@ I’m learning embedded systems. My next step is to learn how to use sensors to 
 | **Chemistry Portfolio** | I research the underlying chemistry, plan experiments, and document the results with photographs and reports. | [Experiment collection](https://github.com/jw3422951-ops/chemistry-portfolio) |
 | **Automatic Cat Feeder** | I built a physical prototype, simulated the mechanism in CAD, and investigated how container type and silica gel affected dry cat food during storage. | [Prototype, animations, and report](https://github.com/jw3422951-ops/automatic-cat-feeder) |
 | **CCNY DNA Detectives** | In a team study on Domeless RNA interference and methoprene in fruit flies, I prepared Figure 1 and contributed to the report and presentation. | [Unpublished team report and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
+| **CreditCAN** | I proposed a recycling station that would award store credit, helped define its design, and modeled the team prototype in Onshape. The project earned an Honor Award. | [Field research and physical model](https://github.com/jw3422951-ops/credit-can) |
 
 ## Featured experiment
 
