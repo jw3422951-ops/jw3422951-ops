@@ -16,6 +16,7 @@ I’m learning embedded systems. My next step is to learn how to use sensors to 
 | **Automatic Cat Feeder** | I built a physical prototype, simulated the mechanism in CAD, and investigated how container type and silica gel affected dry cat food during storage. | [Prototype, animations, and report](https://github.com/jw3422951-ops/automatic-cat-feeder) |
 | **CCNY DNA Detectives** | In a team study on Domeless RNA interference and methoprene in fruit flies, I prepared Figure 1 and contributed to the report and presentation. | [Unpublished team report and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
 | **Cooper Union Summer Projects** | I helped develop the CreditCAN team model, which earned an Honor Award, then independently built a working Arduino Mega 2560 waste sorter based on the concept. | [Two years of design and fabrication](https://github.com/jw3422951-ops/credit-can) |
+| **Low-Cost Fermentation Monitoring** | I proposed using affordable sensors and Monod kinetics to study batch fermentation in schools. The presentation earned Third Prize at the 2026 Youth AI Leadership Speech Challenge. | [Proposal and award](https://github.com/jw3422951-ops/fermentation-monitoring) |
 
 ## Featured experiment
 
