@@ -1,6 +1,12 @@
 # Wenhao Jia
 
-My projects span mechanical design, independent chemistry experiments, and team biology research.
+## About me
+
+I’m interested in biochemistry and how it can help explain things we tend to overlook in everyday life. While building an automatic cat feeder, I wondered how dry cat food changes while it sits in the container. That question became an experiment.
+
+## Currently learning
+
+I’m learning Arduino and embedded systems through small sketches that explore joystick input, LEDs, and an LCD.
 
 ## Selected projects
 
