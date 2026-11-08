@@ -1,29 +1,21 @@
-# Projects & Experiments
+# Wenhao Jia
 
-A growing collection of my projects, experiments, and learning notes.
+My projects span mechanical design, independent chemistry experiments, and team biology research.
 
-[GitHub](https://github.com/jw3422951-ops)
+## Selected projects
 
-## Chemistry Portfolio
+| Project | My work | Explore |
+| --- | --- | --- |
+| **Chemistry Portfolio** | I research the underlying chemistry, plan experiments, and document the results with photographs and reports. | [Experiment collection](https://github.com/jw3422951-ops/chemistry-portfolio) |
+| **Automatic Cat Feeder** | I built a physical prototype, simulated the mechanism in CAD, and investigated how container type and silica gel affected dry cat food during storage. | [Prototype, animations, and report](https://github.com/jw3422951-ops/automatic-cat-feeder) |
+| **CCNY DNA Detectives** | In a team study on Domeless RNA interference and methoprene in fruit flies, I prepared Figure 1 and contributed to the report and presentation. | [Unpublished team report and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
 
-My long-term, self-directed study of chemistry. I research the underlying concepts, plan the experiments, and carry out the experimental work myself.
+## Featured experiment
 
-### [Copper Sulfate Recrystallization and Crystal Growth](https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/11-copper-sulfate-crystal-growth)
+### Copper Sulfate Recrystallization and Crystal Growth
 
-An experiment that developed from recrystallization into an attempt to grow larger crystals, documented with process photographs and a result after 28 days of cultivation.
+I started with recrystallization and then tried to grow larger crystals. The photograph shows the result after 28 days of growth.
 
 <a href="https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/11-copper-sulfate-crystal-growth"><img src="https://raw.githubusercontent.com/jw3422951-ops/chemistry-portfolio/main/11-copper-sulfate-crystal-growth/assets/day-28-crystals.jpg" alt="Blue crystals photographed after 28 days of cultivation" width="280"></a>
 
-[Explore the Chemistry Portfolio](https://github.com/jw3422951-ops/chemistry-portfolio)
-
-## Early experiments
-
-### Summer STEM 2026 — Arduino Exercises
-
-Three Arduino sketches exploring LED output, joystick input, and a 16×2 I²C LCD. This small collection preserves early learning work, including unfinished drafts.
-
-**Topics:** Arduino · Digital and analog I/O · PWM · Joystick interaction · I²C LCD
-
-The source repository is currently private while its materials are being organized.
-
-More projects will be added as their source files, visuals, and documentation are organized.
+[View the experiment and process photographs](https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/11-copper-sulfate-crystal-growth)
