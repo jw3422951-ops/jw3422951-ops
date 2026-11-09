@@ -46,24 +46,3 @@ While building an automatic cat feeder, I wondered what happened to the food whi
 ## What I’m working toward
 
 I’m learning embedded systems and sensors to control experimental variables and collect more reliable measurements. For my next yeast fermentation study, I want to see whether different conditions produce distinct patterns in the sensor readings over time. [Planned fermentation research](https://github.com/jw3422951-ops/fermentation-monitoring-proposal#future-research)
-
-## Course certificates
-
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <a href="assets/certificates/dtu-bioprocess-course-certificate.png"><img src="assets/certificates/dtu-bioprocess-course-certificate.png" alt="DTU bioprocess development course certificate for Wenhao Jia" width="230"></a>
-      <br><strong>Introduction to Industrial Bioprocess Development</strong>
-      <br>Technical University of Denmark
-      <br>Completed August 20, 2026 · 35 hours of personal study
-      <br><a href="https://www.coursera.org/verify/44AEBELSZSOE">Verify on Coursera</a>
-    </td>
-    <td align="center" valign="top">
-      <a href="assets/certificates/general-biology-course-certificate.png"><img src="assets/certificates/general-biology-course-certificate.png" alt="BITS Pilani general biology course certificate for Wenhao Jia" width="230"></a>
-      <br><strong>General Biology</strong>
-      <br>BITS Pilani
-      <br>Completed October 24, 2026 · Estimated course workload of 80 hours
-      <br><a href="https://www.coursera.org/verify/MT8PPZYCO4KV">Verify on Coursera</a>
-    </td>
-  </tr>
-</table>
