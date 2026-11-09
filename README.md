@@ -21,13 +21,16 @@
         <li><strong>Manuscript.</strong> I wrote the first draft, organizing the design changes, experimental methods, and results for the team to review and revise.</li>
       </ul>
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#design-evolution">Design evolution</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#ab-experiments">Experiments and data</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md">Team contributions</a></p>
+      <p>
+        <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/assets/images/v3/assembled-1.jpg"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="Assembled V3 center-punch prototype connected to the test circuit" height="112"></a>
+        <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/assets/images/v3/IMG_7800.jpg"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="Printed V3 mechanism parts, springs, and fasteners laid out on a table" height="112"></a>
+        <br><sub>V3 assembled prototype and mechanism components</sub>
+      </p>
     </td>
     <td align="center" valign="top" width="250">
-      <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/assets/figures/ab-energy-comparison.png"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/figures/ab-energy-comparison.png" alt="Comparison of stored capacitor energy for the V1-derived baseline and V3 after single steps and after runs of 5, 10, and 20 steps" width="230"></a><br><sub>V1-derived baseline and V3 storage results</sub></p>
-      <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="Assembled V3 center-punch prototype connected to the test circuit" width="230"><br><sub>V3 assembled prototype</sub></p>
-      <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="Printed V3 mechanism parts, springs, and fasteners laid out on a table" width="230"><br><sub>V3 mechanism components</sub></p>
       <p><a href="assets/piezoelectric-floor-tile-v3-center-punch.gif"><img src="assets/piezoelectric-floor-tile-v3-center-punch.gif" alt="Animated CAD model showing motion inside the V3 center-punch mechanism" width="230"></a><br><sub>V3 center-punch animation</sub></p>
       <p><a href="assets/piezoelectric-floor-tile-v2-displacement.gif"><img src="assets/piezoelectric-floor-tile-v2-displacement.gif" alt="Animated V2 displacement simulation showing the upper plate bending under a centered load" width="230"></a><br><sub>V2 displacement simulation</sub></p>
+      <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/assets/figures/ab-energy-comparison.png"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/figures/ab-energy-comparison.png" alt="Comparison of stored capacitor energy for the V1-derived baseline and V3 after single steps and after runs of 5, 10, and 20 steps" width="230"></a><br><sub>V1-derived baseline and V3 storage results</sub></p>
     </td>
   </tr>
 </table>
