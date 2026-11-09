@@ -7,18 +7,34 @@
 <table>
   <tr>
     <td valign="top">
-      <p>With Shaoxuan Xiong and Shuoqi Yang, I explored how a floor tile could turn footstep motion into electrical energy stored in a capacitor. When the contacts in our first build deformed and damaged the piezoelectric discs, we asked how to protect the discs and deliver a more consistent impact.</p>
-      <p><strong>Design process.</strong> We replaced the glue-stick contacts with sponge pads in V1, then tested a spring–impactor assembly in V2. The V2 response varied from step to step, so we developed a V3 mechanism that compresses a spring and releases it at a mechanical trigger.</p>
-      <p><strong>Test result.</strong> In a single-disc comparison, V3 stored an average of <strong>72.48 µJ per step</strong> in a 4.7 µF capacitor, compared with <strong>11.63 µJ</strong> for the V1-derived baseline. We recorded 100 steps per design. The comparison describes stored energy under the tested stepping conditions.</p>
-      <p><strong>My contribution.</strong> I built the V2 CAD assembly, created force-analysis animations, and recorded how far the top plate moved under footsteps. I helped design and model the V3 mechanism, animated its motion, collected V2 and V3 test data with the team, and wrote the first manuscript draft.</p>
+      <p>With Shaoxuan Xiong and Shuoqi Yang, I explored how a floor tile could transfer the motion of a footstep to a piezoelectric disc and store the resulting electrical energy in a capacitor. We started by replicating a published design. In our build, the glue-stick contacts deformed and damaged the discs, which raised a more specific question. <strong>How could we protect the disc and make the contact more consistent from one step to the next?</strong></p>
+      <p><strong>How the design evolved</strong></p>
+      <ul>
+        <li><strong>V1 · Sponge pads.</strong> We replaced the glue-stick contacts with sponge pads in a tile with eight discs wired in parallel. The pads provided a softer contact, but the output still depended on where we stepped.</li>
+        <li><strong>V2 · Spring and impactor.</strong> We added moving impactors and return springs to explore whether the impactor could separate and make contact again as the upper plate rose. The voltage varied across steps and often dropped quickly after the first compression. Through the acrylic plate, we could see the relative motion between the plate and the impactors.</li>
+        <li><strong>V3 · Triggered release.</strong> We developed a center-punch mechanism in which a step compresses a spring until a mechanical trigger releases the moving part. That release delivers a short impact to the disc. We 3D-printed and assembled the mechanism, then verified that it could trigger.</li>
+      </ul>
+      <p><strong>My contribution</strong></p>
+      <ul>
+        <li><strong>V2 assembly and motion.</strong> I brought the component models together into the V2 CAD assembly and made animations to illustrate how the parts moved under load. I recorded and transcribed the upper plate's displacement under footsteps to provide motion data for the team's simulation.</li>
+        <li><strong>V3 mechanism and testing.</strong> I helped design and model the trigger mechanism and animated its release sequence. I also helped measure, record, and transcribe data from both V2 and V3 tests.</li>
+        <li><strong>Manuscript.</strong> I wrote the first draft, organizing the design changes, experimental methods, and results for the team to review and revise.</li>
+      </ul>
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#design-evolution">Design evolution</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#ab-experiments">Experiments and data</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md">Team contributions</a></p>
     </td>
     <td align="center" valign="top" width="250">
       <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="Assembled V3 center-punch prototype connected to the test circuit" width="230"><br><sub>V3 assembled prototype</sub></p>
       <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="Printed V3 mechanism parts, springs, and fasteners laid out on a table" width="230"><br><sub>V3 mechanism components</sub></p>
+      <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v2/cad-section.jpg" alt="V2 CAD section showing the spring and impactor assembly" width="230"><br><sub>V2 CAD section</sub></p>
     </td>
   </tr>
 </table>
+
+### How we tested the two designs
+
+We compared V3 against a single-disc version of the V1 sponge design, using the same disc model and rectifier for both. One person alternated between the two designs, wearing the same shoes and stepping in the same location. Before each single-step trial, we discharged the **4.7 µF capacitor**, then used its voltage change to calculate how much energy was stored.
+
+Across **100 single steps per design**, V3 stored **72.48 µJ per step** on average, about **6.23 times** the baseline's **11.63 µJ**. The spread relative to the mean (sample standard deviation divided by the mean) was **17.7%** for V3 and **54.6%** for the baseline. In separate 20-step charging runs, V3 stored an average of **1,484.62 µJ in total**, compared with **348.65 µJ** for the baseline.
 
 <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#ab-experiments"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/figures/ab-energy-comparison.png" alt="Comparison of stored capacitor energy for the V1-derived baseline and V3 after single steps and after runs of 5, 10, and 20 steps" width="760"></a>
 
