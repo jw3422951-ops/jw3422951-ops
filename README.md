@@ -2,7 +2,22 @@
 
 **Bioengineering · Chemical Engineering**
 
+I’m learning embedded systems and sensors to control experimental variables and collect more reliable measurements.
+
+## Selected projects
+
+| Project | My contribution | Explore |
+| --- | --- | --- |
+| **Piezoelectric Floor Tile** | I modeled the V2 assembly in CAD, helped design and animate the V3 mechanism, collected test data, and wrote the first manuscript draft. | [Prototype and results](https://github.com/jw3422951-ops/piezoelectric-floor-tile) · [Team credits](https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md) |
+| **Cat Food Storage and Automatic Feeder** | I ran the 24-container storage study, built the feeder prototype, and simulated its motor and gear motion in CAD. | [Study results and prototype](https://github.com/jw3422951-ops/cat-food-storage-study) |
+| **Chemistry Portfolio** | I plan and carry out my own chemistry experiments and document what I observe in reports, photos, and videos. | [Chemistry overview](https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md) |
+| **CCNY DNA Detectives** | I prepared Figure 1 and contributed to the paper and presentation on Domeless RNA interference in fruit flies. | [Final team paper and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
+| **Fermentation Monitoring** | I developed a proposal for school labs to use low-cost sensors and Monod kinetics to study batch yeast fermentation. | [Proposal and Third Prize](https://github.com/jw3422951-ops/fermentation-monitoring-proposal) |
+| **Cooper Union Summer Projects** | I modeled the CreditCAN team concept in Onshape, then independently built an Arduino Mega 2560 sorter based on it. The team concept earned an Honor Award. | [Two years of design and fabrication](https://github.com/jw3422951-ops/cooper-union-projects) |
+
 ## [Piezoelectric Floor Tile — Footstep Energy Harvesting](https://github.com/jw3422951-ops/piezoelectric-floor-tile)
+
+Across **100 single steps per design**, V3 stored **72.48 µJ per step** on average, about **6.23 times** the baseline's **11.63 µJ**. The spread relative to the mean (sample standard deviation divided by the mean) was **17.7%** for V3 and **54.6%** for the baseline. In separate 20-step charging runs, V3 stored an average of **1,484.62 µJ in total**, compared with **348.65 µJ** for the baseline.
 
 <table>
   <tr>
@@ -38,8 +53,6 @@
 ### How we tested the two designs
 
 We compared V3 against a single-disc version of the V1 sponge design, using the same disc model and rectifier for both. One person alternated between the two designs, wearing the same shoes and stepping in the same location. Before each single-step trial, we discharged the **4.7 µF capacitor**, then used its voltage change to calculate how much energy was stored.
-
-Across **100 single steps per design**, V3 stored **72.48 µJ per step** on average, about **6.23 times** the baseline's **11.63 µJ**. The spread relative to the mean (sample standard deviation divided by the mean) was **17.7%** for V3 and **54.6%** for the baseline. In separate 20-step charging runs, V3 stored an average of **1,484.62 µJ in total**, compared with **348.65 µJ** for the baseline.
 
 The chart shows individual single-step measurements and cumulative storage after 5, 10, and 20 steps. Error bars in the charging runs show sample standard deviation across five runs per condition.
 
@@ -80,17 +93,6 @@ While building an automatic cat feeder, I wondered what happened to the food whi
   </tr>
 </table>
 
-## Selected projects
-
-| Project | My contribution | Explore |
-| --- | --- | --- |
-| **Piezoelectric Floor Tile** | I modeled the V2 assembly in CAD, helped design and animate the V3 mechanism, collected test data, and wrote the first manuscript draft. | [Prototype and results](https://github.com/jw3422951-ops/piezoelectric-floor-tile) · [Team credits](https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md) |
-| **Cat Food Storage and Automatic Feeder** | I ran the 24-container storage study, built the feeder prototype, and simulated its motor and gear motion in CAD. | [Study results and prototype](https://github.com/jw3422951-ops/cat-food-storage-study) |
-| **Chemistry Portfolio** | I plan and carry out my own chemistry experiments and document what I observe in reports, photos, and videos. | [Chemistry overview](https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md) |
-| **CCNY DNA Detectives** | I prepared Figure 1 and contributed to the paper and presentation on Domeless RNA interference in fruit flies. | [Final team paper and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
-| **Fermentation Monitoring** | I developed a proposal for school labs to use low-cost sensors and Monod kinetics to study batch yeast fermentation. | [Proposal and Third Prize](https://github.com/jw3422951-ops/fermentation-monitoring-proposal) |
-| **Cooper Union Summer Projects** | I modeled the CreditCAN team concept in Onshape, then independently built an Arduino Mega 2560 sorter based on it. The team concept earned an Honor Award. | [Two years of design and fabrication](https://github.com/jw3422951-ops/cooper-union-projects) |
-
 ## What I’m working toward
 
-I’m learning embedded systems and sensors to control experimental variables and collect more reliable measurements. For my next yeast fermentation study, I want to see whether different conditions produce distinct patterns in the sensor readings over time. [Planned fermentation research](https://github.com/jw3422951-ops/fermentation-monitoring-proposal#future-research)
+For my next yeast fermentation study, I want to see whether different conditions produce distinct patterns in the sensor readings over time. [Planned fermentation research](https://github.com/jw3422951-ops/fermentation-monitoring-proposal#future-research)
