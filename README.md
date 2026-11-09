@@ -9,7 +9,7 @@ I’m learning embedded systems and sensors to control experimental variables an
 | Project | My contribution | Explore |
 | --- | --- | --- |
 | **Piezoelectric Floor Tile** | I modeled the V2 assembly in CAD, helped design and animate the V3 mechanism, collected test data, and wrote the first manuscript draft. | [Prototype and results](https://github.com/jw3422951-ops/piezoelectric-floor-tile) · [Team credits](https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md) |
-| **Cat Food Storage and Automatic Feeder** | I ran the 24-container storage study, built the feeder prototype, and simulated its motor and gear motion in CAD. | [Study results and prototype](https://github.com/jw3422951-ops/cat-food-storage-study) |
+| **Cat Food Storage and Automatic Feeder** | I designed and ran a 24-container food-preservation study, wrote the report, and modeled and animated the team feeder's motor and gear assembly. | [Study results and team prototype](https://github.com/jw3422951-ops/cat-food-storage-study) |
 | **Chemistry Portfolio** | I plan and carry out my own chemistry experiments and document what I observe in reports, photos, and videos. | [Chemistry overview](https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md) |
 | **CCNY DNA Detectives** | I prepared Figure 1 and contributed to the paper and presentation on Domeless RNA interference in fruit flies. | [Final team paper and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
 | **Fermentation Monitoring** | I developed a proposal for school labs to use low-cost sensors and Monod kinetics to study batch yeast fermentation. | [Proposal and Third Prize](https://github.com/jw3422951-ops/fermentation-monitoring-proposal) |
@@ -58,7 +58,7 @@ The chart shows individual single-step measurements and cumulative storage after
 
 ## Cat Food Storage Study
 
-While building an automatic cat feeder, I wondered what happened to the food while it sat in the container. I designed a storage experiment to compare plastic and foil containers at four silica gel amounts, then wrote up the methods and results. [Read my cat food storage report (PDF)](https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf)
+While helping build an automatic cat feeder, I wondered what happened to the food while it sat in the container. I compared plastic and foil at four silica gel amounts, tracking loss on drying, pH, and a TLC signal from lipid-soluble extracts. On Day 21, foil with 4 g of silica gel averaged **4.50% loss on drying**, compared with **7.60%** for the foil control. [Study and feeder prototype](https://github.com/jw3422951-ops/cat-food-storage-study) · [Full report (PDF)](https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf)
 
 ## Project gallery
 
@@ -70,7 +70,7 @@ While building an automatic cat feeder, I wondered what happened to the food whi
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/jw3422951-ops/cat-food-storage-study"><img src="assets/cat-food-storage.jpg" alt="Cat-food samples in test tubes during hexane extraction" width="190"><br><strong>Cat Food Storage</strong></a>
-      <br>24-container study and report
+      <br>24-container study · Team feeder
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md"><img src="assets/chemistry-portfolio.jpg" alt="Yellow-green glow in a beaker from the copper-iodide complexes experiment" width="190"><br><strong>Chemistry Portfolio</strong></a>
