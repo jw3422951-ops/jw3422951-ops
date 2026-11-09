@@ -23,6 +23,7 @@
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#design-evolution">Design evolution</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#ab-experiments">Experiments and data</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md">Team contributions</a></p>
     </td>
     <td align="center" valign="top" width="250">
+      <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/assets/figures/ab-energy-comparison.png"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/figures/ab-energy-comparison.png" alt="Comparison of stored capacitor energy for the V1-derived baseline and V3 after single steps and after runs of 5, 10, and 20 steps" width="230"></a><br><sub>V1-derived baseline and V3 storage results</sub></p>
       <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="Assembled V3 center-punch prototype connected to the test circuit" width="230"><br><sub>V3 assembled prototype</sub></p>
       <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="Printed V3 mechanism parts, springs, and fasteners laid out on a table" width="230"><br><sub>V3 mechanism components</sub></p>
       <p><a href="assets/piezoelectric-floor-tile-v2-center-loading.png"><img src="assets/piezoelectric-floor-tile-v2-center-loading.png" alt="V2 simulation showing the upper plate bending under a centered load" width="230"></a><br><sub>V2 center-load simulation</sub></p>
@@ -36,9 +37,7 @@ We compared V3 against a single-disc version of the V1 sponge design, using the 
 
 Across **100 single steps per design**, V3 stored **72.48 µJ per step** on average, about **6.23 times** the baseline's **11.63 µJ**. The spread relative to the mean (sample standard deviation divided by the mean) was **17.7%** for V3 and **54.6%** for the baseline. In separate 20-step charging runs, V3 stored an average of **1,484.62 µJ in total**, compared with **348.65 µJ** for the baseline.
 
-<a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#ab-experiments"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/figures/ab-energy-comparison.png" alt="Comparison of stored capacitor energy for the V1-derived baseline and V3 after single steps and after runs of 5, 10, and 20 steps" width="760"></a>
-
-*Single-step measurements are on the left. On the right, error bars show sample standard deviation across five charging runs per condition.*
+The chart shows individual single-step measurements and cumulative storage after 5, 10, and 20 steps. Error bars in the charging runs show sample standard deviation across five runs per condition.
 
 ## Cat Food Storage Study
 
