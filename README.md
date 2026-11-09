@@ -25,7 +25,7 @@
     <td align="center" valign="top" width="250">
       <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="Assembled V3 center-punch prototype connected to the test circuit" width="230"><br><sub>V3 assembled prototype</sub></p>
       <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="Printed V3 mechanism parts, springs, and fasteners laid out on a table" width="230"><br><sub>V3 mechanism components</sub></p>
-      <p><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v2/cad-section.jpg" alt="V2 CAD section showing the spring and impactor assembly" width="230"><br><sub>V2 CAD section</sub></p>
+      <p><a href="assets/piezoelectric-floor-tile-v2-center-loading.png"><img src="assets/piezoelectric-floor-tile-v2-center-loading.png" alt="V2 simulation showing the upper plate bending under a centered load" width="230"></a><br><sub>V2 center-load simulation</sub></p>
     </td>
   </tr>
 </table>
