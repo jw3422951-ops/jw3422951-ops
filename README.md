@@ -58,7 +58,7 @@ The chart shows individual single-step measurements and cumulative storage after
 
 ## Cat Food Storage Study
 
-While helping build an automatic cat feeder, I wondered what happened to the food while it sat in the container. I compared plastic and foil at four silica gel amounts, tracking loss on drying, pH, and a TLC signal from lipid-soluble extracts. On Day 21, foil with 4 g of silica gel averaged **4.50% loss on drying**, compared with **7.60%** for the foil control. [Study and feeder prototype](https://github.com/jw3422951-ops/cat-food-storage-study) · [Full report (PDF)](https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf)
+While helping build an automatic cat feeder, I wondered what happened to the food while it sat in the container. I compared plastic and foil at four silica gel amounts, tracking loss on drying, pH, and the iodine spot signal from lipid-soluble extracts. On Day 21, foil with 4 g of silica gel averaged **4.50% loss on drying**, compared with **7.60%** for the foil control. [Study and feeder prototype](https://github.com/jw3422951-ops/cat-food-storage-study) · [Full report (PDF)](https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf)
 
 ## Project gallery
 
