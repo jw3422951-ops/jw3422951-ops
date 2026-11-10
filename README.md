@@ -1,21 +1,34 @@
 # Wenhao Jia
 
-**Bioengineering · Chemical Engineering**
+**High school senior · Chemical Engineering & Bioengineering**
 
 I’m learning embedded systems and sensors to control experimental variables and collect more reliable measurements.
 
-## Selected projects
+[Featured work](#featured-work) · [Badminton](#varsity-badminton) · [More projects](#more-projects)
 
-| Project | My contribution | Explore |
-| --- | --- | --- |
-| **Piezoelectric Floor Tile** | I modeled the V2 assembly in CAD, helped design and animate the V3 mechanism, collected test data, and wrote the first manuscript draft. | [Prototype and results](https://github.com/jw3422951-ops/piezoelectric-floor-tile) · [Team credits](https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md) |
-| **Cat Food Storage and Automatic Feeder** | I designed and ran a 24-container food-preservation study, wrote the report, and modeled and animated the team feeder's motor and gear assembly. | [Study results and team prototype](https://github.com/jw3422951-ops/cat-food-storage-study) |
-| **Chemistry Portfolio** | I plan and carry out my own chemistry experiments and document what I observe in reports, photos, and videos. | [Chemistry overview](https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md) |
-| **CCNY DNA Detectives** | I prepared Figure 1 and contributed to the paper and presentation on Domeless RNA interference in fruit flies. | [Final team paper and slides](https://github.com/jw3422951-ops/ccny-dna-detectives) |
-| **Fermentation Monitoring** | I developed a proposal for school labs to use low-cost sensors and Monod kinetics to study batch yeast fermentation. | [Proposal and Third Prize](https://github.com/jw3422951-ops/fermentation-monitoring-proposal) |
-| **Cooper Union Summer Projects** | I modeled the CreditCAN team concept in Onshape, then independently built an Arduino Mega 2560 sorter based on it. The team concept earned an Honor Award. | [Two years of design and fabrication](https://github.com/jw3422951-ops/cooper-union-projects) |
+## Featured work
 
-## [Piezoelectric Floor Tile — Footstep Energy Harvesting](https://github.com/jw3422951-ops/piezoelectric-floor-tile)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile"><img src="assets/piezoelectric-floor-tile-v3.jpg" height="190" alt="Assembled V3 center-punch prototype with test leads"></a></p>
+      <h3>Piezoelectric Floor Tile</h3>
+      <p><strong>Can a footstep charge a capacitor?</strong> Our team tested three mechanical designs. In the single-disc comparison, V3 stored <strong>72.48 µJ per step</strong> on average versus <strong>11.63 µJ</strong> for the baseline, with 100 steps per design.</p>
+      <p>I modeled the V2 assembly in CAD, helped design and animate V3, collected test data, and wrote the first manuscript draft.</p>
+      <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile"><strong>See the prototype and test data →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/jw3422951-ops/cat-food-storage-study"><img src="assets/cat-food-storage.jpg" height="190" alt="Test tubes containing cat-food samples during hexane extraction"></a></p>
+      <h3>Cat Food Storage and Automatic Feeder</h3>
+      <p><strong>What happens to dry food while it waits in a feeder?</strong> In my 24-container study, foil with 4 g of silica gel averaged <strong>4.50% loss on drying</strong> on Day 21 versus <strong>7.60%</strong> for the foil control.</p>
+      <p>I ran the experiment, measured loss on drying, pH, and iodine spot intensity, and wrote the report. I also modeled and animated the team feeder’s motor and gears.</p>
+      <p><a href="https://github.com/jw3422951-ops/cat-food-storage-study"><strong>See the study and feeder →</strong></a> · <a href="https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf">Lab report</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>Floor tile design, test setup, and CAD animations</summary>
 
 Across **100 single steps per design**, V3 stored **72.48 µJ per step** on average, about **6.23 times** the baseline's **11.63 µJ**. The spread relative to the mean (sample standard deviation divided by the mean) was **17.7%** for V3 and **54.6%** for the baseline. In separate 20-step charging runs, V3 stored an average of **1,484.62 µJ in total**, compared with **348.65 µJ** for the baseline.
 
@@ -56,39 +69,50 @@ We compared V3 against a single-disc version of the V1 sponge design, using the 
 
 The chart shows individual single-step measurements and cumulative storage after 5, 10, and 20 steps. Error bars in the charging runs show sample standard deviation across five runs per condition.
 
-## Cat Food Storage Study
+</details>
 
-While helping build an automatic cat feeder, I wondered what happened to the food while it sat in the container. I compared plastic and foil at four silica gel amounts, tracking loss on drying, pH, and the iodine spot signal from lipid-soluble extracts. On Day 21, foil with 4 g of silica gel averaged **4.50% loss on drying**, compared with **7.60%** for the foil control. [Study and feeder prototype](https://github.com/jw3422951-ops/cat-food-storage-study) · [Full report (PDF)](https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf)
-
-## Project gallery
+## Varsity badminton
 
 <table>
   <tr>
-    <td align="center" valign="top" width="190">
-      <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="Assembled V3 center-punch prototype connected to the test circuit" height="190"><br><strong>Piezoelectric Floor Tile</strong></a>
-      <br>Footstep energy harvesting · Team project
+    <td width="155" align="center"><a href="activities/badminton.md"><img src="assets/badminton-finalists.jpg" width="145" alt="Flushing Campus players holding their medals and PSAL finalist plaque"></a></td>
+    <td valign="middle">
+      <h3>PSAL City Championship Runner-Up</h3>
+      <p>Flushing Campus Boys Varsity Badminton finished second in New York City in 2026. I was co-captain, played No. 1 singles, and coached teammates in singles and doubles.</p>
+      <p><a href="activities/badminton.md"><strong>See the photos and my role →</strong></a></p>
     </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/jw3422951-ops/cat-food-storage-study"><img src="assets/cat-food-storage.jpg" alt="Cat-food samples in test tubes during hexane extraction" width="190"><br><strong>Cat Food Storage</strong></a>
-      <br>24-container study · Team feeder
+  </tr>
+</table>
+
+## More projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jw3422951-ops/chemistry-portfolio"><img src="assets/chemistry-portfolio.jpg" width="132" alt="Yellow-green glow in a beaker from the copper–iodide complexes experiment"></a>
+      <h3>Independent Chemistry</h3>
+      <p>I planned and carried out my own experiments, including a 28-day copper sulfate crystal growth study. The collection has <strong>49 entries and 10 written reports</strong>.</p>
+      <p><a href="https://github.com/jw3422951-ops/chemistry-portfolio"><strong>Browse experiments →</strong></a></p>
     </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/jw3422951-ops/chemistry-portfolio/blob/main/README.md"><img src="assets/chemistry-portfolio.jpg" alt="Yellow-green glow in a beaker from the copper-iodide complexes experiment" width="190"><br><strong>Chemistry Portfolio</strong></a>
-      <br>49 entries · 10 reports
+    <td width="50%" valign="top">
+      <a href="https://github.com/jw3422951-ops/ccny-dna-detectives"><img src="assets/ccny-dna-detectives.jpg" width="132" alt="Figure 1 showing tumor incidence by RNAi group and treatment"></a>
+      <h3>CCNY DNA Detectives</h3>
+      <p>I counted visible tumors in fruit fly larvae with my team, prepared Figure 1, and helped write the paper. The comparison between Domeless and White RNAi was inconclusive.</p>
+      <p><a href="https://github.com/jw3422951-ops/ccny-dna-detectives"><strong>Read the team study →</strong></a></p>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/jw3422951-ops/ccny-dna-detectives"><img src="assets/ccny-dna-detectives.jpg" alt="Figure 1 showing tumor incidence by RNAi group and treatment" width="190"><br><strong>CCNY DNA Detectives</strong></a>
-      <br>Spring course team study
+    <td valign="top">
+      <a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><img src="assets/fermentation-monitoring.jpg" width="132" alt="Wenhao Jia holding his Third Prize certificate"></a>
+      <h3>Fermentation Monitoring</h3>
+      <p>I proposed tracking batch yeast fermentation with low-cost sensors and using Monod kinetics to explain growth. The presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge.</p>
+      <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Explore the proposal →</strong></a></p>
     </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><img src="assets/fermentation-monitoring.jpg" alt="Wenhao Jia holding the Third Prize certificate" width="190"><br><strong>Fermentation Monitoring</strong></a>
-      <br>Sensor proposal · Third Prize
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/jw3422951-ops/cooper-union-projects"><img src="assets/creditcan.jpg" alt="CreditCAN waste sorter with its transparent enclosure and rotating chute" width="190"><br><strong>Cooper Union</strong></a>
-      <br>CreditCAN and class projects
+    <td valign="top">
+      <a href="https://github.com/jw3422951-ops/cooper-union-projects#creditcan"><img src="assets/creditcan.jpg" width="132" alt="CreditCAN waste sorter with its transparent enclosure and rotating chute"></a>
+      <h3>CreditCAN at Cooper Union</h3>
+      <p>I modeled the team recycling concept in Onshape, then built an Arduino Mega 2560 sorter with a rotating chute. The team concept earned an <strong>Honor Award</strong>.</p>
+      <p><a href="https://github.com/jw3422951-ops/cooper-union-projects#creditcan"><strong>See how the sorter works →</strong></a></p>
     </td>
   </tr>
 </table>
