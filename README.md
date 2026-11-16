@@ -29,7 +29,7 @@ I’m learning embedded systems and sensors to control experimental variables an
       <p align="center"><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile"><img src="assets/piezoelectric-floor-tile-v3.jpg" height="190" alt="Assembled V3 center-punch prototype with test leads"></a></p>
       <h3>Piezoelectric Floor Tile</h3>
       <p><strong>How can a slow footstep deliver a sharp strike to a piezoelectric disc?</strong> The contacts in our first prototype damaged the discs. After testing sponge pads and a spring impactor, our team built a center-punch mechanism that compresses a spring underfoot and releases it at a trigger point. In single-disc tests, V3 stored an average of <strong>72.48 µJ per step</strong> in a capacitor, compared with <strong>11.63 µJ</strong> for the sponge baseline (100 steps per design).</p>
-      <p><strong>My contribution.</strong> I built the V2 CAD assembly, animated how it moved under load, and recorded how far the top plate moved under footsteps. I helped design the V3 trigger, animated its release, helped collect test data, and wrote the first manuscript draft.</p>
+      <p><strong>My contribution.</strong> I independently built the V3 CAD model and created the motion simulations shown below. I assembled V2 in CAD, recorded top-plate displacement under footsteps, helped design the V3 trigger with the team, and wrote the first manuscript draft.</p>
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile"><strong>See the prototype and test data →</strong></a></p>
     </td>
     <td width="50%" valign="top">
@@ -44,7 +44,7 @@ I’m learning embedded systems and sensors to control experimental variables an
       </table>
       <h3>Cat Food Storage and Automatic Feeder</h3>
       <p><strong>Could a foil liner help keep kibble dry between feedings?</strong> Silica gel reduced loss on drying in both plastic and foil on Day 14. By Day 21, <strong>the reduction persisted only in foil</strong>. My next step is to test a foil-lined storage compartment with silica gel in the feeder itself.</p>
-      <p><strong>My contribution.</strong> I designed and ran the storage experiment, analyzed loss on drying, pH, and iodine spot intensity, and wrote the report. For our team’s feeder, I modeled the motor and gears, resolved part interference in CAD, and created the two motion simulations above.</p>
+      <p><strong>My contribution.</strong> I designed and ran the storage experiment, analyzed loss on drying, pH, and iodine spot intensity, and wrote the report. For our team’s feeder, I modeled the motor and gears, resolved part interference in CAD, and independently created both motion simulations shown above.</p>
       <p><a href="https://github.com/jw3422951-ops/cat-food-storage-study#results"><strong>See the chart and feeder animations →</strong></a> · <a href="https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf">Read my lab report</a></p>
     </td>
   </tr>
@@ -66,8 +66,8 @@ Across **100 single steps per design**, V3 stored **72.48 µJ per step** on aver
       </ul>
       <p><strong>My contribution</strong></p>
       <ul>
-        <li><strong>V2 assembly and motion.</strong> I brought the component models together into the V2 CAD assembly and made animations to illustrate how the parts moved under load. I recorded and transcribed the upper plate's displacement under footsteps to provide motion data for the team's simulation.</li>
-        <li><strong>V3 mechanism and testing.</strong> I helped design and model the trigger mechanism and animated its release sequence. I also helped measure, record, and transcribe data from both V2 and V3 tests.</li>
+        <li><strong>V2 assembly and motion.</strong> I brought the component models together into the V2 CAD assembly and independently created the top-plate displacement simulation shown here. I also recorded and transcribed the upper plate’s displacement under footsteps for the team’s analysis.</li>
+        <li><strong>V3 CAD and testing.</strong> I helped design the trigger mechanism with the team. I independently built the V3 CAD model and animated its release sequence. I also helped measure, record, and transcribe data from both V2 and V3 tests.</li>
         <li><strong>Manuscript.</strong> I wrote the first draft, organizing the design changes, experimental methods, and results for the team to review and revise.</li>
       </ul>
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#design-evolution">Design evolution</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#ab-experiments">Experiments and data</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md">Team contributions</a></p>
