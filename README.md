@@ -1,14 +1,18 @@
 # Wenhao Jia
 
-I’m a high school senior in New York City interested in **chemical engineering and bioengineering**. I pay attention to small changes that are easy to overlook in everyday life. Once something makes me curious, I like digging into the chemistry until I can explain what’s happening and why.
+I’m a high school senior in New York City applying to study **bioengineering and chemical engineering**. I pay attention to small changes that are easy to overlook in everyday life. Once something makes me curious, I like digging into the chemistry until I can explain what’s happening and why.
 
 I enjoy turning those questions into experiments I can run and prototypes I can test. When something behaves differently than I expected, I revisit my explanation and decide what to change or measure next.
 
 | What I do | Tools and methods |
 | --- | --- |
-| **Program** | C/C++, including Arduino firmware |
-| **Model & build** | Onshape CAD, motion simulation, 3D printing, and laser cutting |
-| **Experiment & analyze** | Experimental design, measurement, and ImageJ analysis |
+| **Chemistry & biochemistry** | Hexane extraction, iodine spot testing, pH and loss-on-drying measurements, filtration, and recrystallization |
+| **Biology** | Fruit fly larval microscopy and tumor scoring, with coursework in RNAi and GAL4–UAS |
+| **Bioprocess fundamentals** | Batch, fed-batch, and continuous fermentation concepts, Monod kinetics, and a proposal for sensor-based yeast fermentation monitoring |
+| **Experimental design & analysis** | Controlled comparisons, replicate measurements, Welch’s t-tests, and ImageJ quantification |
+| **Scientific communication** | Lab reports, research figures, and presentations |
+| **CAD & prototyping** | Onshape CAD, motion simulation, 3D printing, and laser cutting |
+| **Programming** | C/C++, including Arduino firmware |
 
 **Currently learning** · Embedded systems. I’m practicing sensor integration and stepper motor control so I can better control experimental conditions and collect more reliable measurements.
 
