@@ -2,19 +2,21 @@
 
 **High school senior · Chemical Engineering & Bioengineering**
 
+When food kept going moldy in our basement workshop, I designed a **24-container storage experiment** to inform the design of our automatic cat feeder. On Day 21, cat food stored in foil with 4 g of silica gel had **4.50% loss on drying**, compared with **7.60%** in foil alone.
+
 I’m learning embedded systems and sensors to control experimental variables and collect more reliable measurements.
 
-[Badminton](#varsity-badminton) · [Featured work](#featured-work) · [More projects](#more-projects)
+[Badminton](#varsity-badminton) · [Featured work](#featured-work) · [More projects](#more-projects) · [Cat food results and chart](https://github.com/jw3422951-ops/cat-food-storage-study#results)
 
 ## Varsity badminton
 
 <table>
   <tr>
-    <td width="230" align="center"><a href="activities/badminton.md"><img src="assets/badminton-finalists.jpg" width="220" alt="Flushing Campus players holding their medals and PSAL finalist plaque"></a></td>
+    <td width="210" align="center"><a href="activities/badminton.md"><img src="assets/badminton-finalists.jpg" width="190" alt="Flushing Campus players holding their medals and PSAL finalist plaque"></a></td>
     <td valign="middle">
       <h3>PSAL City Championship Runner-Up</h3>
-      <p>Flushing Campus Boys Varsity Badminton finished second in New York City in 2026. I was co-captain, played No. 1 singles, and coached teammates in singles and doubles.</p>
-      <p><a href="activities/badminton.md"><strong>See the photos and my role →</strong></a></p>
+      <p>Flushing Campus Boys Varsity Badminton finished second in New York City in 2026, the <strong>first city runner-up finish in program history</strong>. I was <strong>co-captain and No. 1 singles player</strong>, and I coached teammates in singles and doubles during practice.</p>
+      <p><a href="activities/badminton.md"><strong>See the city final and team photos →</strong></a></p>
     </td>
   </tr>
 </table>
@@ -33,9 +35,9 @@ I’m learning embedded systems and sensors to control experimental variables an
     <td width="50%" valign="top">
       <p align="center"><a href="https://github.com/jw3422951-ops/cat-food-storage-study"><img src="assets/cat-food-storage.jpg" height="190" alt="Test tubes containing cat-food samples during hexane extraction"></a></p>
       <h3>Cat Food Storage and Automatic Feeder</h3>
-      <p><strong>What happens to dry food while it waits in a feeder?</strong> In my 24-container study, foil with 4 g of silica gel averaged <strong>4.50% loss on drying</strong> on Day 21 versus <strong>7.60%</strong> for the foil control.</p>
+      <p><strong>What happens to dry food while it waits in a feeder?</strong> I compared plastic and foil across four silica gel doses. By Day 21, the reduction in loss on drying relative to the control persisted only in foil.</p>
       <p>I ran the experiment, measured loss on drying, pH, and iodine spot intensity, and wrote the report. I also modeled and animated the team feeder’s motor and gears.</p>
-      <p><a href="https://github.com/jw3422951-ops/cat-food-storage-study"><strong>See the study and feeder →</strong></a> · <a href="https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf">Lab report</a></p>
+      <p><a href="https://github.com/jw3422951-ops/cat-food-storage-study#results"><strong>See the chart and feeder animations →</strong></a> · <a href="https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf">Lab report</a></p>
     </td>
   </tr>
 </table>
@@ -103,10 +105,11 @@ The chart shows individual single-step measurements and cumulative storage after
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><img src="assets/fermentation-monitoring.jpg" width="132" alt="Wenhao Jia holding his Third Prize certificate"></a>
+      <a href="assets/fermentation-presentation.jpg"><img src="assets/fermentation-presentation.jpg" width="132" alt="Wenhao Jia speaking into a microphone alongside his presentation teammate"></a>
+      <a href="assets/fermentation-awards-ceremony.jpg"><img src="assets/fermentation-awards-ceremony.jpg" width="132" alt="Wenhao Jia and his teammate holding their Third Prize certificates at the awards ceremony"></a>
       <h3>Fermentation Monitoring</h3>
-      <p>I proposed tracking batch yeast fermentation with low-cost sensors and using Monod kinetics to explain growth. The presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge.</p>
-      <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Explore the proposal →</strong></a></p>
+      <p>I proposed using low-cost sensors to help school labs track yeast fermentation. In our talk, I used the <strong>Monod model</strong> to explain how the availability of a limiting nutrient affects yeast growth. Our presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge.</p>
+      <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Read the proposal and see the award →</strong></a></p>
     </td>
     <td valign="top">
       <a href="https://github.com/jw3422951-ops/cooper-union-projects#creditcan"><img src="assets/creditcan.jpg" width="132" alt="CreditCAN waste sorter with its transparent enclosure and rotating chute"></a>
