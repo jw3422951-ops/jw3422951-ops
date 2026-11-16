@@ -1,6 +1,6 @@
 # Wenhao Jia
 
-I’m a high school senior in New York City applying to study **bioengineering and chemical engineering**. I pay attention to small changes that are easy to overlook in everyday life. Once something makes me curious, I like digging into the chemistry until I can explain what’s happening and why.
+I’m a high school senior in New York City applying to study **bioengineering and chemical engineering**. I pay attention to small changes that are easy to overlook in everyday life. When something makes me curious, I like working through the underlying principles until I can explain what’s happening and why.
 
 I enjoy turning those questions into experiments I can run and prototypes I can test. When something behaves differently than I expected, I revisit my explanation and decide what to change or measure next.
 
