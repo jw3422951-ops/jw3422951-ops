@@ -4,7 +4,20 @@
 
 I’m learning embedded systems and sensors to control experimental variables and collect more reliable measurements.
 
-[Featured work](#featured-work) · [Badminton](#varsity-badminton) · [More projects](#more-projects)
+[Badminton](#varsity-badminton) · [Featured work](#featured-work) · [More projects](#more-projects)
+
+## Varsity badminton
+
+<table>
+  <tr>
+    <td width="230" align="center"><a href="activities/badminton.md"><img src="assets/badminton-finalists.jpg" width="220" alt="Flushing Campus players holding their medals and PSAL finalist plaque"></a></td>
+    <td valign="middle">
+      <h3>PSAL City Championship Runner-Up</h3>
+      <p>Flushing Campus Boys Varsity Badminton finished second in New York City in 2026. I was co-captain, played No. 1 singles, and coached teammates in singles and doubles.</p>
+      <p><a href="activities/badminton.md"><strong>See the photos and my role →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ## Featured work
 
@@ -70,19 +83,6 @@ We compared V3 against a single-disc version of the V1 sponge design, using the 
 The chart shows individual single-step measurements and cumulative storage after 5, 10, and 20 steps. Error bars in the charging runs show sample standard deviation across five runs per condition.
 
 </details>
-
-## Varsity badminton
-
-<table>
-  <tr>
-    <td width="155" align="center"><a href="activities/badminton.md"><img src="assets/badminton-finalists.jpg" width="145" alt="Flushing Campus players holding their medals and PSAL finalist plaque"></a></td>
-    <td valign="middle">
-      <h3>PSAL City Championship Runner-Up</h3>
-      <p>Flushing Campus Boys Varsity Badminton finished second in New York City in 2026. I was co-captain, played No. 1 singles, and coached teammates in singles and doubles.</p>
-      <p><a href="activities/badminton.md"><strong>See the photos and my role →</strong></a></p>
-    </td>
-  </tr>
-</table>
 
 ## More projects
 
