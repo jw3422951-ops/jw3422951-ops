@@ -33,7 +33,15 @@ I’m learning embedded systems and sensors to control experimental variables an
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile"><strong>See the prototype and test data →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><a href="https://github.com/jw3422951-ops/cat-food-storage-study"><img src="assets/cat-food-storage.jpg" height="190" alt="Test tubes containing cat-food samples during hexane extraction"></a></p>
+      <table align="center">
+        <tr>
+          <td align="center" valign="middle"><a href="https://github.com/jw3422951-ops/cat-food-storage-study#experiment-photos"><img src="assets/cat-food-storage.jpg" width="180" alt="Test tubes containing cat-food samples during hexane extraction"></a></td>
+          <td align="center" valign="middle">
+            <a href="https://github.com/jw3422951-ops/cat-food-storage-study#prototype-and-mechanism"><img src="assets/cat-feeder-assembly-preview.gif" width="80" alt="CAD animation of the complete automatic cat feeder assembly"></a><br>
+            <a href="https://github.com/jw3422951-ops/cat-food-storage-study#prototype-and-mechanism"><img src="assets/cat-feeder-underside-preview.gif" width="80" alt="CAD animation of the gear-driven mechanism underneath the feeder"></a>
+          </td>
+        </tr>
+      </table>
       <h3>Cat Food Storage and Automatic Feeder</h3>
       <p><strong>What happens to dry food while it waits in a feeder?</strong> I compared plastic and foil across four silica gel doses. By Day 21, the reduction in loss on drying relative to the control persisted only in foil.</p>
       <p>I ran the experiment, measured loss on drying, pH, and iodine spot intensity, and wrote the report. I also modeled and animated the team feeder’s motor and gears.</p>
