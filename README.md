@@ -14,7 +14,7 @@ I’m learning embedded systems and sensors to control experimental variables an
   <tr>
     <td width="210" align="center"><a href="activities/badminton.md"><img src="assets/badminton-finalists.jpg" width="190" alt="Flushing Campus players holding their medals and PSAL finalist plaque"></a></td>
     <td valign="middle">
-      <h3>PSAL City Championship Runner-Up</h3>
+      <h3>New York City PSAL Championship Runner-Up</h3>
       <p>Flushing Campus Boys Varsity Badminton finished second in New York City in 2026, the <strong>first city runner-up finish in program history</strong>. I was <strong>co-captain and No. 1 singles player</strong>, and I coached teammates in singles and doubles during practice.</p>
       <p><a href="activities/badminton.md"><strong>See the city final and team photos →</strong></a></p>
     </td>
@@ -44,7 +44,7 @@ I’m learning embedded systems and sensors to control experimental variables an
       </table>
       <h3>Cat Food Storage and Automatic Feeder</h3>
       <p><strong>Could a foil liner help keep kibble dry between feedings?</strong> I compared plastic and aluminum foil at four silica gel doses, with three independent containers per condition. Silica gel reduced loss on drying in both materials on Day 14. By Day 21, <strong>the reduction persisted only in foil</strong>. The 1 g and 2 g foil groups also had stronger iodine spot signals than foil alone. My next step is to test a foil-lined feeder compartment with silica gel at different humidity levels.</p>
-      <p><strong>My contribution.</strong> I designed and ran the study, measured loss on drying and pH, quantified iodine spot intensity in ImageJ, and wrote the report. For our team’s prototype, I modeled the motor and gears for the underside drive. I worked through the order in which parts needed to move to resolve assembly interference, then independently created both CAD motion simulations shown above.</p>
+      <p><strong>My contribution.</strong> I designed and ran the study, measured loss on drying and pH, quantified iodine spot intensity in ImageJ, and wrote the report. For the feeder prototype we built at <strong>Alba Studio</strong>, I modeled the motor and gears for the underside drive. I worked through the order in which parts needed to move to resolve assembly interference, then independently created both CAD motion simulations shown above.</p>
       <p><a href="https://github.com/jw3422951-ops/cat-food-storage-study#results"><strong>See the chart and feeder animations →</strong></a> · <a href="https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf">Read my lab report</a></p>
     </td>
   </tr>
