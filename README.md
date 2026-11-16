@@ -107,8 +107,8 @@ Across **100 single steps per design**, V3 stored **72.48 µJ per step** on aver
       <a href="assets/fermentation-awards-ceremony.jpg"><img src="assets/fermentation-awards-ceremony.jpg" width="132" alt="Wenhao Jia and his teammate holding their Third Prize certificates at the awards ceremony"></a>
       <h3>Fermentation Monitoring</h3>
       <p>After spending about 35 hours studying batch, fed-batch, and continuous fermentation through DTU’s online bioprocess course, I proposed that school labs use <strong>low-cost sensors</strong> to log an entire yeast fermentation batch. Students could compare how different runs progress and flag changes worth investigating.</p>
-      <p>In our talk, I used the <strong>Monod model</strong> to explain why growth slows as yeast uses up a limiting nutrient. Fitting the model would require measurements or calibrated estimates of both nutrient concentration and yeast growth. Our presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge, hosted by the Youth Vision Committee of the Fifth Avenue Entrepreneurs Foundation.</p>
-      <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Read the proposal and see the award →</strong></a> · <a href="https://www.5thaveclub.com/blog-posts/aishi-dai-shi-me-neng-li-bu-hui-guo-shi">Official event recap</a></p>
+      <p>In our talk, I used the <strong>Monod model</strong> to explain why growth slows as yeast uses up a limiting nutrient. Fitting the model would require measurements or calibrated estimates of both nutrient concentration and yeast growth. Our presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge.</p>
+      <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Read the proposal and see the award →</strong></a> · <a href="https://www.5thaveclub.com/blog-posts/aishi-dai-shi-me-neng-li-bu-hui-guo-shi">Fifth Avenue Entrepreneurs Club event recap</a></p>
     </td>
     <td valign="top">
       <table>
