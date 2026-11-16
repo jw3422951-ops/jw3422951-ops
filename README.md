@@ -89,15 +89,15 @@ Across **100 single steps per design**, V3 stored **72.48 µJ per step** on aver
         <br><sub>Copper–iodide glow · Copper sulfate recrystallization · Lithium flame test</sub>
       </p>
       <h3>Independent Chemistry</h3>
-      <p>I researched, planned, and carried out these experiments independently, using photos and videos to document color changes, light emission, and crystal growth. The collection has <strong>49 entries and 10 written reports</strong>.</p>
+      <p>I researched, planned, and carried out these experiments independently. The collection has <strong>49 entries and 10 written reports</strong>. In the blue-bottle experiment, I recorded the solution turning blue when shaken and fading at rest as methylene blue cycled between its oxidized and reduced forms.</p>
       <p>In my <strong>28-day copper sulfate study</strong>, the particles I added had dissolved by Day 3. I prepared a supersaturated solution and later checked the sample every three days. The final photo shows four main blue crystals with visible faces and edges.</p>
       <p><a href="https://github.com/jw3422951-ops/chemistry-portfolio"><strong>Browse experiments →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jw3422951-ops/ccny-dna-detectives"><img src="assets/ccny-dna-detectives.jpg" width="132" alt="Figure 1 showing tumor incidence by RNAi group and treatment"></a>
       <h3>CCNY DNA Detectives</h3>
-      <p>In CCNY’s spring 2026 DNA Detectives course, our team asked whether reducing <strong>Domeless</strong> expression through RNA interference would change tumor incidence in fruit fly larvae exposed to methoprene. The comparison with White RNAi was inconclusive (p = 0.10).</p>
-      <p>I worked with teammates to count larvae with visible tumors under a microscope and prepared <strong>Figure 1</strong>. For our unpublished course paper, I wrote parts of the introduction on the mechanism and RNAi and contributed to the results and conclusion.</p>
+      <p>In CCNY’s spring 2026 DNA Detectives course, our team asked whether reducing <strong>Domeless</strong> expression would change tumor incidence in fruit fly larvae exposed to methoprene. The experiment used GAL4–UAS to activate RNA interference in specific tissues, with ethanol as the treatment control. The comparison between Domeless and White RNAi was inconclusive (p = 0.10).</p>
+      <p>I counted larvae with visible tumors under a microscope with my teammates and prepared <strong>Figure 1</strong>. I wrote portions of the introduction on the mechanism and RNAi, contributed to the results and conclusion of our unpublished paper, and helped cover the first result and limitations in our presentation.</p>
       <p><a href="https://github.com/jw3422951-ops/ccny-dna-detectives"><strong>Read the team study →</strong></a></p>
     </td>
   </tr>
@@ -106,9 +106,9 @@ Across **100 single steps per design**, V3 stored **72.48 µJ per step** on aver
       <a href="assets/fermentation-presentation.jpg"><img src="assets/fermentation-presentation.jpg" width="132" alt="Wenhao Jia speaking into a microphone alongside his presentation teammate"></a>
       <a href="assets/fermentation-awards-ceremony.jpg"><img src="assets/fermentation-awards-ceremony.jpg" width="132" alt="Wenhao Jia and his teammate holding their Third Prize certificates at the awards ceremony"></a>
       <h3>Fermentation Monitoring</h3>
-      <p>After spending about 35 hours studying industrial bioprocess development through DTU’s online course, I proposed that school labs use <strong>low-cost sensors</strong> to log yeast fermentation over an entire batch and compare how different runs progress.</p>
-      <p>In our talk, I used the <strong>Monod model</strong> to explain how the availability of a limiting nutrient affects yeast growth. Our presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge.</p>
-      <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Read the proposal and see the award →</strong></a></p>
+      <p>After spending about 35 hours studying batch, fed-batch, and continuous fermentation through DTU’s online bioprocess course, I proposed that school labs use <strong>low-cost sensors</strong> to log an entire yeast fermentation batch. Students could compare how different runs progress and flag changes worth investigating.</p>
+      <p>In our talk, I used the <strong>Monod model</strong> to explain why growth slows as yeast uses up a limiting nutrient. Fitting the model would require measurements or calibrated estimates of both nutrient concentration and yeast growth. Our presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge, hosted by the Youth Vision Committee of the Fifth Avenue Entrepreneurs Foundation.</p>
+      <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Read the proposal and see the award →</strong></a> · <a href="https://www.5thaveclub.com/blog-posts/aishi-dai-shi-me-neng-li-bu-hui-guo-shi">Official event recap</a></p>
     </td>
     <td valign="top">
       <table>
@@ -120,8 +120,8 @@ Across **100 single steps per design**, V3 stored **72.48 µJ per step** on aver
       </table>
       <h3>CreditCAN at Cooper Union</h3>
       <p>After interviewing people about neighborhood sanitation, our team proposed a recycling station that would offer local store credit for deposits. I modeled the concept in Onshape, and our team earned an <strong>Honor Award</strong>.</p>
-      <p>The next summer I independently built a working <strong>Arduino Mega 2560 sorter</strong>. It used metal detection, a time-of-flight sensor to estimate height, and mass entered through Serial. I built a geared rotating chute and a rack-and-pinion pusher to route items to four destinations.</p>
-      <p><a href="https://github.com/jw3422951-ops/cooper-union-projects#creditcan"><strong>See how the sorter works →</strong></a></p>
+      <p>The next summer I independently built a working <strong>Arduino Mega 2560 sorter</strong>. It checks for metal and uses a time-of-flight sensor to estimate height. I enter the mass in the Serial Monitor. I wrote the Arduino C++ sketch that classifies items and moves the geared chute and rack-and-pinion pusher in sequence, routing items to one of four destinations.</p>
+      <p><a href="https://github.com/jw3422951-ops/cooper-union-projects#creditcan"><strong>See how the sorter works →</strong></a> · <a href="https://github.com/jw3422951-ops/cooper-union-projects#firmware-and-motor-sequence">Firmware and motor sequence</a></p>
     </td>
   </tr>
 </table>
