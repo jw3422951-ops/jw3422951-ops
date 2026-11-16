@@ -86,7 +86,12 @@ The chart shows individual single-step measurements and cumulative storage after
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jw3422951-ops/chemistry-portfolio"><img src="assets/chemistry-portfolio.jpg" width="132" alt="Yellow-green glow in a beaker from the copper–iodide complexes experiment"></a>
+      <p>
+        <a href="https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/experiments/45-luminescent-copper-iodide-complexes/assets"><img src="assets/chemistry-portfolio.jpg" height="112" alt="Yellow-green glow in a beaker from the copper–iodide complexes experiment"></a>
+        <a href="https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/experiments/11-copper-sulfate-crystal-growth"><img src="assets/chemistry-copper-sulfate.jpg" height="112" alt="Overhead view of blue material in a beaker during copper sulfate recrystallization"></a>
+        <a href="https://github.com/jw3422951-ops/chemistry-portfolio/tree/main/experiments/46-lithium-flame-test/assets"><img src="assets/chemistry-lithium-flame.jpg" height="112" alt="Crimson flame rising from a dish during a lithium flame test"></a>
+        <br><sub>Copper–iodide glow · Copper sulfate recrystallization · Lithium flame test</sub>
+      </p>
       <h3>Independent Chemistry</h3>
       <p>I planned and carried out my own experiments, including a 28-day copper sulfate crystal growth study. The collection has <strong>49 entries and 10 written reports</strong>.</p>
       <p><a href="https://github.com/jw3422951-ops/chemistry-portfolio"><strong>Browse experiments →</strong></a></p>
