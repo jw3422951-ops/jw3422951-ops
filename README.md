@@ -6,10 +6,11 @@ I enjoy turning those questions into experiments I can run and prototypes I can 
 
 | What I do | Tools and methods |
 | --- | --- |
+| **Program** | C/C++, including Arduino firmware |
 | **Model & build** | Onshape CAD, motion simulation, 3D printing, and laser cutting |
 | **Experiment & analyze** | Experimental design, measurement, and ImageJ analysis |
 
-**Currently learning** · Embedded systems and C/C++ for Arduino. I’m practicing sensor integration and stepper motor control so I can better control experimental conditions and collect more reliable measurements.
+**Currently learning** · Embedded systems. I’m practicing sensor integration and stepper motor control so I can better control experimental conditions and collect more reliable measurements.
 
 [Badminton](#varsity-badminton) · [Featured work](#featured-work) · [More projects](#more-projects) · [Cat food results and chart](https://github.com/jw3422951-ops/cat-food-storage-study#results)
 
