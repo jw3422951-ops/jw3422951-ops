@@ -28,8 +28,8 @@ I’m learning embedded systems and sensors to control experimental variables an
     <td width="50%" valign="top">
       <p align="center"><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile"><img src="assets/piezoelectric-floor-tile-v3.jpg" height="190" alt="Assembled V3 center-punch prototype with test leads"></a></p>
       <h3>Piezoelectric Floor Tile</h3>
-      <p><strong>Can a footstep charge a capacitor?</strong> Our team tested three mechanical designs. In the single-disc comparison, V3 stored <strong>72.48 µJ per step</strong> on average versus <strong>11.63 µJ</strong> for the baseline, with 100 steps per design.</p>
-      <p>I modeled the V2 assembly in CAD, helped design and animate V3, collected test data, and wrote the first manuscript draft.</p>
+      <p><strong>How can a slow footstep deliver a sharp strike to a piezoelectric disc?</strong> The contacts in our first prototype damaged the discs. After testing sponge pads and a spring impactor, our team built a center-punch mechanism that compresses a spring underfoot and releases it at a trigger point. In single-disc tests, V3 stored an average of <strong>72.48 µJ per step</strong> in a capacitor, compared with <strong>11.63 µJ</strong> for the sponge baseline (100 steps per design).</p>
+      <p><strong>My contribution.</strong> I built the V2 CAD assembly, animated how it moved under load, and recorded how far the top plate moved under footsteps. I helped design the V3 trigger, animated its release, helped collect test data, and wrote the first manuscript draft.</p>
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile"><strong>See the prototype and test data →</strong></a></p>
     </td>
     <td width="50%" valign="top">
