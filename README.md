@@ -43,9 +43,9 @@ I’m learning embedded systems and sensors to control experimental variables an
         </tr>
       </table>
       <h3>Cat Food Storage and Automatic Feeder</h3>
-      <p><strong>What happens to dry food while it waits in a feeder?</strong> I compared plastic and foil across four silica gel doses. By Day 21, the reduction in loss on drying relative to the control persisted only in foil.</p>
-      <p>I ran the experiment, measured loss on drying, pH, and iodine spot intensity, and wrote the report. I also modeled and animated the team feeder’s motor and gears.</p>
-      <p><a href="https://github.com/jw3422951-ops/cat-food-storage-study#results"><strong>See the chart and feeder animations →</strong></a> · <a href="https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf">Lab report</a></p>
+      <p><strong>Could a foil liner help keep kibble dry between feedings?</strong> Silica gel reduced loss on drying in both plastic and foil on Day 14. By Day 21, <strong>the reduction persisted only in foil</strong>. My next step is to test a foil-lined storage compartment with silica gel in the feeder itself.</p>
+      <p><strong>My contribution.</strong> I designed and ran the storage experiment, analyzed loss on drying, pH, and iodine spot intensity, and wrote the report. For our team’s feeder, I modeled the motor and gears, resolved part interference in CAD, and created the two motion simulations above.</p>
+      <p><a href="https://github.com/jw3422951-ops/cat-food-storage-study#results"><strong>See the chart and feeder animations →</strong></a> · <a href="https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf">Read my lab report</a></p>
     </td>
   </tr>
 </table>
