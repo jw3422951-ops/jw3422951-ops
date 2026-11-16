@@ -8,7 +8,7 @@ I enjoy turning those questions into experiments I can run and prototypes I can 
 | --- | --- |
 | **Chemistry & biochemistry** | Used the Biuret test to detect peptide bonds and the blue-bottle experiment to study redox reactions. Practiced hexane extraction, iodine spot testing, pH and loss-on-drying measurements, filtration, and recrystallization. |
 | **Cell & molecular biology** | Fruit fly larval microscopy and tumor scoring. Studied cell structure, cell division, gene expression, and RNAi-mediated gene silencing, including tissue-specific control with GAL4–UAS. |
-| **Bioprocess fundamentals** | Studied batch, fed-batch, and continuous fermentation. Developed an understanding of Monod kinetics, including how the concentration of a limiting substrate affects yeast growth rate. Proposed using low-cost sensors to compare fermentation runs. |
+| **Bioprocess fundamentals** | Understanding of Monod kinetics · Batch, fed-batch, and continuous fermentation |
 | **Experimental design & analysis** | Controlled comparisons, replicate measurements, Welch’s t-tests, and ImageJ quantification |
 | **Scientific communication** | Lab reports, research figures, and presentations |
 | **CAD & prototyping** | Onshape CAD, motion simulation, 3D printing, and laser cutting |
