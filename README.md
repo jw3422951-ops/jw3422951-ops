@@ -2,13 +2,14 @@
 
 I’m a high school senior in New York City interested in **chemical engineering and bioengineering**. I like using chemistry to investigate problems I notice in everyday life. When food went moldy in our basement workshop, I wondered how we could store kibble in the automatic feeder we were building at Alba Studio.
 
-I designed a **24-container study** to compare storage conditions. On Day 21, kibble stored in foil with 4 g of silica gel averaged **4.50% loss on drying**, compared with **7.60%** in foil alone. I’m learning to use embedded systems and sensors to control experimental conditions and take more reliable measurements.
+I designed a **24-container study** to compare storage conditions. On Day 21, kibble stored in foil with 4 g of silica gel averaged **4.50% loss on drying**, compared with **7.60%** in foil alone.
 
 | What I do | Tools and methods |
 | --- | --- |
-| **Program & control** | C/C++ for Arduino, sensor integration, and stepper motor control |
 | **Model & build** | Onshape CAD, motion simulation, 3D printing, and laser cutting |
 | **Experiment & analyze** | Experimental design, measurement, and ImageJ analysis |
+
+**Currently learning** · Embedded systems and C/C++ for Arduino. I’m practicing sensor integration and stepper motor control so I can better control experimental conditions and collect more reliable measurements.
 
 [Badminton](#varsity-badminton) · [Featured work](#featured-work) · [More projects](#more-projects) · [Cat food results and chart](https://github.com/jw3422951-ops/cat-food-storage-study#results)
 
