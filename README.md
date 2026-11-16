@@ -7,7 +7,7 @@ I enjoy turning those questions into experiments I can run and prototypes I can 
 | What I do | Tools and methods |
 | --- | --- |
 | **Chemistry & biochemistry** | Hexane extraction, iodine spot testing, pH and loss-on-drying measurements, filtration, and recrystallization |
-| **Biology** | Fruit fly larval microscopy and tumor scoring, with coursework in RNAi and GAL4–UAS |
+| **Cell & molecular biology** | Fruit fly larval microscopy and tumor scoring. Studied cell structure, cell division, gene expression, and RNAi-mediated gene silencing, including tissue-specific control with GAL4–UAS. |
 | **Bioprocess fundamentals** | Batch, fed-batch, and continuous fermentation concepts, Monod kinetics, and a proposal for sensor-based yeast fermentation monitoring |
 | **Experimental design & analysis** | Controlled comparisons, replicate measurements, Welch’s t-tests, and ImageJ quantification |
 | **Scientific communication** | Lab reports, research figures, and presentations |
