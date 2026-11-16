@@ -64,22 +64,18 @@ Across **100 single steps per design**, V3 stored **72.48 µJ per step** on aver
         <li><strong>V2 · Spring and impactor.</strong> We added moving impactors and return springs to explore whether the impactor could separate and make contact again as the upper plate rose. The voltage varied across steps and often dropped quickly after the first compression. Through the acrylic plate, we could see the relative motion between the plate and the impactors. I combined the team’s component models into the V2 CAD assembly and transcribed our displacement measurements for analysis.</li>
         <li><strong>V3 · Triggered release.</strong> We developed a center-punch mechanism in which a step compresses a spring until a mechanical trigger releases the moving part. That release delivers a short impact to the disc. We 3D-printed and assembled the mechanism, then verified that it could trigger. I also helped measure, record, and transcribe data from both V2 and V3 tests.</li>
       </ul>
+      <p><strong>How we tested the two designs</strong></p>
+      <p>One person alternated between V3 and the single-disc sponge baseline, wearing the same shoes and stepping in the same spot. We used the same disc model and rectifier and discharged the 4.7 µF capacitor before each single-step trial. We calculated stored energy from the voltage change. Error bars for the 5-, 10-, and 20-step charging runs show sample standard deviation across five runs per condition.</p>
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#design-evolution">Design evolution</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#ab-experiments">Experiments and data</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md">Team contributions</a></p>
     </td>
     <td align="center" valign="top" width="250">
-      <p><a href="assets/piezoelectric-floor-tile-v3-center-punch.gif"><img src="assets/piezoelectric-floor-tile-v3-center-punch.gif" alt="Animated CAD model showing motion inside the V3 center-punch mechanism" width="230"></a><br><sub>V3 center-punch animation</sub></p>
+      <p><a href="assets/piezoelectric-floor-tile-v3-center-punch.gif"><img src="assets/piezoelectric-floor-tile-v3-center-punch.gif" alt="Animated CAD model showing motion inside the V3 center-punch mechanism" width="190"></a><br><sub>V3 center-punch animation</sub></p>
       <p><a href="assets/piezoelectric-floor-tile-v2-displacement.gif"><img src="assets/piezoelectric-floor-tile-v2-displacement.gif" alt="Animated V2 displacement simulation showing the upper plate bending under a centered load" width="230"></a><br><sub>V2 displacement simulation</sub></p>
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/assets/figures/ab-energy-comparison.png"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/figures/ab-energy-comparison.png" alt="Comparison of stored capacitor energy for the V1-derived baseline and V3 after single steps and after runs of 5, 10, and 20 steps" width="230"></a><br><sub>V1-derived baseline and V3 storage results</sub></p>
-      <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/assets/images/v3/IMG_7800.jpg"><img src="https://raw.githubusercontent.com/jw3422951-ops/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="Printed V3 mechanism parts, springs, and fasteners laid out on a table" width="230"></a><br><sub>V3 mechanism components</sub></p>
+      <p><a href="assets/piezoelectric-floor-tile-v3.jpg"><img src="assets/piezoelectric-floor-tile-v3.jpg" alt="Assembled V3 center-punch prototype connected to the test circuit" height="100"></a><br><sub>Assembled V3 prototype</sub></p>
     </td>
   </tr>
 </table>
-
-### How we tested the two designs
-
-We compared V3 against a single-disc version of the V1 sponge design, using the same disc model and rectifier for both. One person alternated between the two designs, wearing the same shoes and stepping in the same location. Before each single-step trial, we discharged the **4.7 µF capacitor**, then used its voltage change to calculate how much energy was stored.
-
-The chart shows individual single-step measurements and cumulative storage after 5, 10, and 20 steps. Error bars in the charging runs show sample standard deviation across five runs per condition.
 
 ## More projects
 
@@ -93,13 +89,15 @@ The chart shows individual single-step measurements and cumulative storage after
         <br><sub>Copper–iodide glow · Copper sulfate recrystallization · Lithium flame test</sub>
       </p>
       <h3>Independent Chemistry</h3>
-      <p>I planned and carried out my own experiments, including a 28-day copper sulfate crystal growth study. The collection has <strong>49 entries and 10 written reports</strong>.</p>
+      <p>I researched, planned, and carried out these experiments independently, using photos and videos to document color changes, light emission, and crystal growth. The collection has <strong>49 entries and 10 written reports</strong>.</p>
+      <p>In my <strong>28-day copper sulfate study</strong>, the particles I added had dissolved by Day 3. I prepared a supersaturated solution and later checked the sample every three days. The final photo shows four main blue crystals with visible faces and edges.</p>
       <p><a href="https://github.com/jw3422951-ops/chemistry-portfolio"><strong>Browse experiments →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jw3422951-ops/ccny-dna-detectives"><img src="assets/ccny-dna-detectives.jpg" width="132" alt="Figure 1 showing tumor incidence by RNAi group and treatment"></a>
       <h3>CCNY DNA Detectives</h3>
-      <p>I counted visible tumors in fruit fly larvae with my team, prepared Figure 1, and helped write the paper. The comparison between Domeless and White RNAi was inconclusive.</p>
+      <p>In CCNY’s spring 2026 DNA Detectives course, our team asked whether reducing <strong>Domeless</strong> expression through RNA interference would change tumor incidence in fruit fly larvae exposed to methoprene. The comparison with White RNAi was inconclusive (p = 0.10).</p>
+      <p>I worked with teammates to count larvae with visible tumors under a microscope and prepared <strong>Figure 1</strong>. For our unpublished course paper, I wrote parts of the introduction on the mechanism and RNAi and contributed to the results and conclusion.</p>
       <p><a href="https://github.com/jw3422951-ops/ccny-dna-detectives"><strong>Read the team study →</strong></a></p>
     </td>
   </tr>
@@ -108,7 +106,8 @@ The chart shows individual single-step measurements and cumulative storage after
       <a href="assets/fermentation-presentation.jpg"><img src="assets/fermentation-presentation.jpg" width="132" alt="Wenhao Jia speaking into a microphone alongside his presentation teammate"></a>
       <a href="assets/fermentation-awards-ceremony.jpg"><img src="assets/fermentation-awards-ceremony.jpg" width="132" alt="Wenhao Jia and his teammate holding their Third Prize certificates at the awards ceremony"></a>
       <h3>Fermentation Monitoring</h3>
-      <p>I proposed using low-cost sensors to help school labs track yeast fermentation. In our talk, I used the <strong>Monod model</strong> to explain how the availability of a limiting nutrient affects yeast growth. Our presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge.</p>
+      <p>After spending about 35 hours studying industrial bioprocess development through DTU’s online course, I proposed that school labs use <strong>low-cost sensors</strong> to log yeast fermentation over an entire batch and compare how different runs progress.</p>
+      <p>In our talk, I used the <strong>Monod model</strong> to explain how the availability of a limiting nutrient affects yeast growth. Our presentation earned <strong>Third Prize</strong> at the 2026 Youth AI Leadership Speech Challenge.</p>
       <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Read the proposal and see the award →</strong></a></p>
     </td>
     <td valign="top">
@@ -120,7 +119,8 @@ The chart shows individual single-step measurements and cumulative storage after
         </tr>
       </table>
       <h3>CreditCAN at Cooper Union</h3>
-      <p>I modeled the team recycling concept in Onshape, then built an Arduino Mega 2560 sorter with a rotating chute. The team concept earned an <strong>Honor Award</strong>.</p>
+      <p>After interviewing people about neighborhood sanitation, our team proposed a recycling station that would offer local store credit for deposits. I modeled the concept in Onshape, and our team earned an <strong>Honor Award</strong>.</p>
+      <p>The next summer I independently built a working <strong>Arduino Mega 2560 sorter</strong>. It used metal detection, a time-of-flight sensor to estimate height, and mass entered through Serial. I built a geared rotating chute and a rack-and-pinion pusher to route items to four destinations.</p>
       <p><a href="https://github.com/jw3422951-ops/cooper-union-projects#creditcan"><strong>See how the sorter works →</strong></a></p>
     </td>
   </tr>
