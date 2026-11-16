@@ -43,8 +43,8 @@ I’m learning embedded systems and sensors to control experimental variables an
         </tr>
       </table>
       <h3>Cat Food Storage and Automatic Feeder</h3>
-      <p><strong>Could a foil liner help keep kibble dry between feedings?</strong> Silica gel reduced loss on drying in both plastic and foil on Day 14. By Day 21, <strong>the reduction persisted only in foil</strong>. My next step is to test a foil-lined storage compartment with silica gel in the feeder itself.</p>
-      <p><strong>My contribution.</strong> I designed and ran the storage experiment, analyzed loss on drying, pH, and iodine spot intensity, and wrote the report. For our team’s feeder, I modeled the motor and gears, resolved part interference in CAD, and independently created both motion simulations shown above.</p>
+      <p><strong>Could a foil liner help keep kibble dry between feedings?</strong> I compared plastic and aluminum foil at four silica gel doses, with three independent containers per condition. Silica gel reduced loss on drying in both materials on Day 14. By Day 21, <strong>the reduction persisted only in foil</strong>. The 1 g and 2 g foil groups also had stronger iodine spot signals than foil alone. My next step is to test a foil-lined feeder compartment with silica gel at different humidity levels.</p>
+      <p><strong>My contribution.</strong> I designed and ran the study, measured loss on drying and pH, quantified iodine spot intensity in ImageJ, and wrote the report. For our team’s prototype, I modeled the motor and gears for the underside drive. I worked through the order in which parts needed to move to resolve assembly interference, then independently created both CAD motion simulations shown above.</p>
       <p><a href="https://github.com/jw3422951-ops/cat-food-storage-study#results"><strong>See the chart and feeder animations →</strong></a> · <a href="https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf">Read my lab report</a></p>
     </td>
   </tr>
@@ -61,14 +61,8 @@ Across **100 single steps per design**, V3 stored **72.48 µJ per step** on aver
       <p><strong>How the design evolved</strong></p>
       <ul>
         <li><strong>V1 · Sponge pads.</strong> We replaced the glue-stick contacts with sponge pads in a tile with eight discs wired in parallel. The pads provided a softer contact, but the output still depended on where we stepped.</li>
-        <li><strong>V2 · Spring and impactor.</strong> We added moving impactors and return springs to explore whether the impactor could separate and make contact again as the upper plate rose. The voltage varied across steps and often dropped quickly after the first compression. Through the acrylic plate, we could see the relative motion between the plate and the impactors.</li>
-        <li><strong>V3 · Triggered release.</strong> We developed a center-punch mechanism in which a step compresses a spring until a mechanical trigger releases the moving part. That release delivers a short impact to the disc. We 3D-printed and assembled the mechanism, then verified that it could trigger.</li>
-      </ul>
-      <p><strong>My contribution</strong></p>
-      <ul>
-        <li><strong>V2 assembly and motion.</strong> I brought the component models together into the V2 CAD assembly and independently created the top-plate displacement simulation shown here. I also recorded and transcribed the upper plate’s displacement under footsteps for the team’s analysis.</li>
-        <li><strong>V3 CAD and testing.</strong> I helped design the trigger mechanism with the team. I independently built the V3 CAD model and animated its release sequence. I also helped measure, record, and transcribe data from both V2 and V3 tests.</li>
-        <li><strong>Manuscript.</strong> I wrote the full first draft of our paper, from the abstract through the future directions section. I then revised the draft for the final manuscript based on Shaoxuan Xiong’s feedback and suggested edits.</li>
+        <li><strong>V2 · Spring and impactor.</strong> We added moving impactors and return springs to explore whether the impactor could separate and make contact again as the upper plate rose. The voltage varied across steps and often dropped quickly after the first compression. Through the acrylic plate, we could see the relative motion between the plate and the impactors. I combined the team’s component models into the V2 CAD assembly and transcribed our displacement measurements for analysis.</li>
+        <li><strong>V3 · Triggered release.</strong> We developed a center-punch mechanism in which a step compresses a spring until a mechanical trigger releases the moving part. That release delivers a short impact to the disc. We 3D-printed and assembled the mechanism, then verified that it could trigger. I also helped measure, record, and transcribe data from both V2 and V3 tests.</li>
       </ul>
       <p><a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#design-evolution">Design evolution</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile#ab-experiments">Experiments and data</a> · <a href="https://github.com/jw3422951-ops/piezoelectric-floor-tile/blob/main/CREDITS.md">Team contributions</a></p>
     </td>
@@ -113,7 +107,13 @@ The chart shows individual single-step measurements and cumulative storage after
       <p><a href="https://github.com/jw3422951-ops/fermentation-monitoring-proposal"><strong>Read the proposal and see the award →</strong></a></p>
     </td>
     <td valign="top">
-      <a href="https://github.com/jw3422951-ops/cooper-union-projects#creditcan"><img src="assets/creditcan.jpg" width="132" alt="CreditCAN waste sorter with its transparent enclosure and rotating chute"></a>
+      <table>
+        <tr>
+          <td align="center" valign="top"><a href="assets/creditcan-team-model.jpg"><img src="assets/creditcan-team-model.jpg" height="132" alt="The first-year CreditCAN display model and team project poster"></a><br><sub>Year 1 team model</sub></td>
+          <td align="center" valign="middle"><strong>→</strong></td>
+          <td align="center" valign="top"><a href="assets/creditcan-working-sorter.jpg"><img src="assets/creditcan-working-sorter.jpg" height="132" alt="The second-year working CreditCAN sorter and laptop on a workshop table"></a><br><sub>Year 2 independent build</sub></td>
+        </tr>
+      </table>
       <h3>CreditCAN at Cooper Union</h3>
       <p>I modeled the team recycling concept in Onshape, then built an Arduino Mega 2560 sorter with a rotating chute. The team concept earned an <strong>Honor Award</strong>.</p>
       <p><a href="https://github.com/jw3422951-ops/cooper-union-projects#creditcan"><strong>See how the sorter works →</strong></a></p>
