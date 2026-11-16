@@ -50,8 +50,7 @@ I’m learning embedded systems and sensors to control experimental variables an
   </tr>
 </table>
 
-<details>
-<summary>Floor tile design, test setup, and CAD animations</summary>
+## Floor tile design, test setup, and CAD animations
 
 Across **100 single steps per design**, V3 stored **72.48 µJ per step** on average, about **6.23 times** the baseline's **11.63 µJ**. The spread relative to the mean (sample standard deviation divided by the mean) was **17.7%** for V3 and **54.6%** for the baseline. In separate 20-step charging runs, V3 stored an average of **1,484.62 µJ in total**, compared with **348.65 µJ** for the baseline.
 
@@ -87,8 +86,6 @@ Across **100 single steps per design**, V3 stored **72.48 µJ per step** on aver
 We compared V3 against a single-disc version of the V1 sponge design, using the same disc model and rectifier for both. One person alternated between the two designs, wearing the same shoes and stepping in the same location. Before each single-step trial, we discharged the **4.7 µF capacitor**, then used its voltage change to calculate how much energy was stored.
 
 The chart shows individual single-step measurements and cumulative storage after 5, 10, and 20 steps. Error bars in the charging runs show sample standard deviation across five runs per condition.
-
-</details>
 
 ## More projects
 
