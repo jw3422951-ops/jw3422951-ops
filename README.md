@@ -1,8 +1,8 @@
 # Wenhao Jia
 
-I’m a high school senior in New York City interested in **chemical engineering and bioengineering**. I like using chemistry to investigate problems I notice in everyday life. When food went moldy in our basement workshop, I wondered how we could store kibble in the automatic feeder we were building at Alba Studio.
+I’m a high school senior in New York City interested in **chemical engineering and bioengineering**. I like noticing small changes that are easy to overlook in everyday life and using chemistry to ask what causes them.
 
-I designed a **24-container study** to compare storage conditions. On Day 21, kibble stored in foil with 4 g of silica gel averaged **4.50% loss on drying**, compared with **7.60%** in foil alone.
+I enjoy turning those questions into experiments I can run and prototypes I can test. When something behaves differently than I expected, I look for what I can change and measure in the next test.
 
 | What I do | Tools and methods |
 | --- | --- |
