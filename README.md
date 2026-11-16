@@ -6,6 +6,8 @@ When food kept going moldy in our basement workshop, I designed a **24-container
 
 I’m learning embedded systems and sensors to control experimental variables and collect more reliable measurements.
 
+**Skills** · C/C++ (Arduino) · Sensor integration and stepper motor control · Onshape CAD and motion simulation · 3D printing and laser cutting · Experimental design and ImageJ analysis
+
 [Badminton](#varsity-badminton) · [Featured work](#featured-work) · [More projects](#more-projects) · [Cat food results and chart](https://github.com/jw3422951-ops/cat-food-storage-study#results)
 
 ## Varsity badminton
